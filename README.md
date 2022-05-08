@@ -6,3 +6,48 @@ O sistema é sobre um site de assistência médica simplificada, onde é mostrad
 Comentário particular sobre o aprendizado: Muitos conceitos novos, quase tudo novo para mim, foi um aprendizado enorme. Por não confiar muito nas transcrições de código, (escrever enquanto assiste), busquei tentar escrever muitos trechos puxando pela memória e acessando a documentação, quando não conseguia, retornava ao vídeo e tentava novamente para não perder muito tempo. Qualquer coisa que me forçava um estudo ativo, me forçava a memória, eu aplicava para absorver melhor o conteúdo e não só decorar códigos, mas entendê-los.
 
 Link para a visualização da página: https://saulocatunda.github.io/DoctorCare/#home
+
+O que foi passado:
+CSS
+- Cascading
+- Specificity
+- Box Model
+- Responsivo    
+- Layout
+- Transições
+- Seletores de ID
+- Smooth Scrolling
+- Hover
+- CSS Grid
+- CSS Flex
+- CSS Media Queries
+
+HTML
+- Alinhamento
+- Tag
+- Ancoras
+- Eventos
+- Footer
+- BackToTop
+- OnScroll
+- svg
+- Link whatsapp
+
+JavaScript
+- Fluxo natural da aplicação
+- Boas práticasa de escrita
+- Tipos de dados primitivos
+- Tipos de dados estruturados
+- Fluxo alternativo da aplicação
+- Objetos
+- Bibliotecas de terceiros
+- AddEventListener
+- getAttribute
+- querySelector
+- Const e Let
+- Operadores lógico, negação e comparação.
+- Argumentos para funções
+
+DOM
+
+Github Pages, corrigindo problemas com o uso de ponto (.) pelo navegador.
